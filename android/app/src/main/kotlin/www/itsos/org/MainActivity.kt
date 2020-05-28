@@ -1,0 +1,6 @@
+package www.itsos.org
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
